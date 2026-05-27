@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Generator",
+  "description": "An advanced AI-powered cinematic video generator studio to write narrative scripts, build storyboards, synthesize ambient tracks, and render cinematic camera motions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
